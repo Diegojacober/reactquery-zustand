@@ -1,0 +1,2 @@
+o react query não substitui o axios ele adiciona uma camada de cache no axios ou em qualquer outra ferramenta de fetch
+
